@@ -34,7 +34,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Mexico/General</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -88,7 +88,7 @@
 		<key>timezone_abbreviation</key>
 		<string>AST</string>
 		<key>timezone_name</key>
-		<string>America/Halifax</string>
+		<string>Asia/Aden</string>
 		<key>timezone_offset</key>
 		<integer>-14400</integer>
 	</dict>
@@ -106,7 +106,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Mexico/General</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -2311,7 +2311,7 @@
 		<key>timezone_abbreviation</key>
 		<string>IST</string>
 		<key>timezone_name</key>
-		<string>Asia/Calcutta</string>
+		<string>Asia/Tel_Aviv</string>
 		<key>timezone_offset</key>
 		<integer>19800</integer>
 	</dict>
@@ -5083,7 +5083,7 @@
 		<key>timezone_abbreviation</key>
 		<string>IST</string>
 		<key>timezone_name</key>
-		<string>Asia/Calcutta</string>
+		<string>Asia/Tel_Aviv</string>
 		<key>timezone_offset</key>
 		<integer>19800</integer>
 	</dict>
