@@ -313,7 +313,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -547,7 +547,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -592,7 +592,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -997,7 +997,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1006,7 +1006,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1015,7 +1015,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1060,7 +1060,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1141,7 +1141,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1267,7 +1267,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1618,7 +1618,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1636,7 +1636,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1717,7 +1717,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1843,7 +1843,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1870,7 +1870,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1960,7 +1960,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -1987,7 +1987,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -2320,7 +2320,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -2329,7 +2329,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -2338,7 +2338,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -2644,7 +2644,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -2725,7 +2725,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -2734,7 +2734,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -2770,7 +2770,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -2968,7 +2968,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -3454,7 +3454,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -3526,7 +3526,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -3535,7 +3535,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -3544,7 +3544,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -4219,7 +4219,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -4732,7 +4732,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -4741,7 +4741,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -4750,7 +4750,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -4759,7 +4759,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -4768,7 +4768,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -4786,7 +4786,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -4948,7 +4948,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -4993,7 +4993,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -5029,7 +5029,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -5128,7 +5128,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -5218,7 +5218,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -5497,7 +5497,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -5506,7 +5506,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -5515,7 +5515,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -5614,7 +5614,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -5623,7 +5623,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
@@ -5632,7 +5632,7 @@
 		<key>timezone_abbreviation</key>
 		<string>CST</string>
 		<key>timezone_name</key>
-		<string>America/Chicago</string>
+		<string>Asia/Shanghai</string>
 		<key>timezone_offset</key>
 		<integer>-21600</integer>
 	</dict>
