@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Abidjan, Cote d'Ivoire (Ivory Coast)</key>
+	<key>Abidjan, Cote d&apos;Ivoire (Ivory Coast)</key>
 	<string>GMT</string>
 	<key>Abu Dhabi, Abu Dhabi, United Arab Emirates</key>
 	<string>Asia/Dubai</string>
@@ -996,9 +996,9 @@
 	<string>America/Los_Angeles</string>
 	<key>Sagamihara, Japan</key>
 	<string>Asia/Tokyo</string>
-	<key>Saint George's, Grenada</key>
+	<key>Saint George&apos;s, Grenada</key>
 	<string>America/Halifax</string>
-	<key>Saint John's, Antigua and Barbuda</key>
+	<key>Saint John&apos;s, Antigua and Barbuda</key>
 	<string>America/Halifax</string>
 	<key>Saint John, New Brunswick, Canada</key>
 	<string>America/Halifax</string>
@@ -1080,7 +1080,7 @@
 	<string>GMT+1100</string>
 	<key>Sri Jayawardenapura Kotte, Sri Lanka</key>
 	<string>Asia/Calcutta</string>
-	<key>St. John's, Newfoundland and Labrador, Canada</key>
+	<key>St. John&apos;s, Newfoundland and Labrador, Canada</key>
 	<string>GMT-0330</string>
 	<key>St. Louis, Missouri, U.S.A.</key>
 	<string>America/Chicago</string>
@@ -1230,7 +1230,7 @@
 	<string>America/Chicago</string>
 	<key>Yakutsk, Russia</key>
 	<string>GMT+0900</string>
-	<key>Yamoussoukro, Cote d'Ivoire (Ivory Coast)</key>
+	<key>Yamoussoukro, Cote d&apos;Ivoire (Ivory Coast)</key>
 	<string>GMT</string>
 	<key>Yangon, Myanmar</key>
 	<string>GMT+0630</string>
